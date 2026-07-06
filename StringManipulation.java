@@ -20,7 +20,7 @@ public class StringManipulation {
 			if(arr[j] == 0) sb.append(sb);
 			else sb.append(work(sb.toString()));
 		}
-		System.out.println(sb);
+		System.out.println(sb.toString());
 		sc.close();
 	}
 }
