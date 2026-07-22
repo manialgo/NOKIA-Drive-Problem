@@ -1,3 +1,5 @@
+//NOKIA DRIVE
+
 import java.util.Scanner;
 public class PartySeat {
 	public static void main(String[] args) {
